@@ -1,10 +1,11 @@
 Hi 👋 My name is Alexsander S. Ephrem
-=====================================  Devops, system and Cloud enginer 
+=====================================  
+Devops, system, and Cloud engineer 
 --------------------------------  
 * 🌍  I'm based in Dubai, UAE *
-* ✉️  You can contact me at [alexsanderephrem@gmail.com](mailto:alexsanderephrem@gmail.com)*
+* ✉️  You can contact me at [alexsanderephrem@gmail.com](mailto:alexsanderephrem@gmail.com)
 * 🧠  I'm learning Cyber Security Operations
-* 🤝  I'm open to collaborating on interesting project on infrastrucher, networking and general bootstrapping your infra needs off the ground
+* 🤝  I'm open to collaborating on interesting projects on infrastructure, networking and general bootstrapping your infra needs off the ground
 
 ### Skills  
 
