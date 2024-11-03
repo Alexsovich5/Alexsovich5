@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexsander S. Ephrem
+Hi 👋 My name is Alex
 =====================================  
 Devops, system, and Cloud engineer 
 --------------------------------  
